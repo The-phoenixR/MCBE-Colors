@@ -1,5 +1,7 @@
 # ***Minecraft PE Colors***
 
+⚠️ Outdated
+
 ## Color Codes
 + §0 <span style="color:#000">Black</span>
 + §1 <span style="color:#00A">Dark Blue</span>
